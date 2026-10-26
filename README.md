@@ -1,6 +1,15 @@
-This repo contains the source code for the Oblivion Media website.
+# Oblivion Media
 
-If you're not me and you have a question, you can contact me using the form [here](https://oblivionmedia.typeform.com/to/EwQYqmPa).
-***
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/trleahy/Oblivion-Media/pages.yml?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/trleahy/Oblivion-Media?style=flat-square)
+The source for the Oblivion Media LTD website, a responsive, single-page site introducing the company and its next chapter.
+
+## Project Structure
+
+```text
+.
+├── assets/          # Favicon and other static assets
+├── scripts/         # Small page behavior, including the current year
+├── styles/          # Main styles and local font declarations
+│   └── fonts/       # Satoshi and TeX Gyre Adventor font files
+├── index.html       # The single-page site
+└── README.md
+```
